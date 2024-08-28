@@ -1,3 +1,3 @@
-module "vpc" {
+terraform {
   source = "../../module/vpc"
 }
